@@ -1,6 +1,6 @@
 # Riflessioni sparse
 
-Ciao,  
+Ciao a tutti,  
 io non ho insegnato nella sperimentale negli anni scorsi.  
 Parlo quindi per idee che mi sono fatto, mettendo insieme l'esperienza dei corsi Python che ho fatto all'università verso le scuole superiori (circa 15 edizioni dal 2020), il corso regionale Engim di Tecnico Sviluppo Software in cui sono docente Java (dal 2019), il corso regionale Tecnico Sviluppo Web in cui ho insegnato Javascript (dal 2023), l'esperienza in TIN l'anno scorso e quanto ho visto nella sperimentale 3S in cui sto facendo informatica ora.  
 
