@@ -2,14 +2,14 @@
 
 Ciao a tutti,  
 io non ho insegnato nella sperimentale negli anni scorsi.  
-Parlo quindi per idee che mi sono fatto, mettendo insieme l'esperienza dei corsi Python che ho fatto all'università verso le scuole superiori (circa 15 edizioni dal 2020), il corso regionale Engim di Tecnico Sviluppo Software in cui sono docente Java (dal 2019), il corso regionale Tecnico Sviluppo Web in cui ho insegnato Javascript (dal 2023), l'esperienza in TIN l'anno scorso e quanto ho visto nella sperimentale 3S in cui sto facendo informatica ora.  
+Vorrei condividere con voi la visione che ho riguardo questo argomento, che deriva mettendo insieme l'esperienza dei corsi Python insegnati all'università verso le scuole superiori (circa 17 edizioni dal 2020), il corso regionale Engim di Tecnico Sviluppo Software in cui sono docente Java (dal 2019), il corso regionale Tecnico Sviluppo Web in cui ho insegnato Javascript (dal 2023), l'esperienza in TIN l'anno scorso e quanto ho visto nella sperimentale 3S in cui sto facendo informatica ora.  
 
-Ne ho un po' parlato anche con altri/e colleghi/e, e sono dell'idea che abbiamo una grossa opportunità per sperimentare.  
-La mia idea è che l'obiettivo ottimale da raggiungere è che al termine dei quattro anni i ragazzi possano avere l'opportunità di essere presi a fare un tirocinio in azienda informatica, ITS o per i più portati essere pronti per l'università.  
-Con l'idea però che non tutti debbano fare l'università, credo che l'ideale sarebbe di dare **l'opportunità anche a quei ragazzi di livello intermedio di poter già lavorare**. Per riuscire a raggiungere questo obiettivo quindi credo che la scuola dovrebbe essere più vicina ai trend delle **tecnologie moderne**.  
-Tralascerei momentaneamente il discorso dei lavori moderni che esistono che non includono la programmazione (creazione di siti web tramite CMS, Social media manager, SEO strategist, ecc).  
+Ne ho un po' parlato anche con altri/e colleghi/e, e siamo dell'idea che abbiamo una grossa opportunità per proporre qualcosa di innovativo. 
+L'obiettivo da raggiungere è che al termine dei quattro anni i ragazzi possano avere l'opportunità di essere presi a fare un tirocinio in azienda informatica, ITS o per i più portati essere pronti per l'università.  
+Non tutti però faranno l'università. Credo quindi che l'ideale sarebbe di dare **l'opportunità anche a quei ragazzi di livello intermedio di poter lavorare**. Per riuscire a raggiungere questo obiettivo credo che la scuola dovrebbe essere più vicina ai trend delle **tecnologie moderne**.  
+Tralascerei momentaneamente il discorso dei lavori moderni che esistono che non includono la programmazione (creazione di siti web tramite CMS, Social media manager, SEO specialist, ecc).  
 
-Scrivo qui un po' di idee sparse che ho trovato, magari possono alimentare la discussione e aiutare a farsi un'idea.
+Vi riporto un po' di idee che ho trovato, e che magari possono alimentare la discussione.
 
 - Per quanto riguarda il lavoro di programmatore *[questi](https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language)* sono i linguaggi più utilizzati nel 2024.  
 Al primo posto c'è Javascript, che però ritorna di nuovo al quinto posto con TypeScript. HTML e CSS sono insieme a JS. Quindi in tre posizioni tra le prime cinque abbiamo i linguaggi del web. In effetti, tra le professioni più praticate ci sono i Full stack developer (fonte: [qui](https://survey.stackoverflow.co/2024/developer-profile/#developer-roles)). [Qui](https://octoverse.github.com/2022/top-programming-languages) altra statistica da github ferma al 2022.
@@ -23,10 +23,10 @@ Mettendo insieme tutte queste informazioni, noto due possibili filoni da percorr
 
 Io sono combattuto su quale sia la scelta giusta. La mia esperienza passata è stata questa: ho fatto alle superiori Java, all'università Java + C solo per un esame, da auto didatta python, Javascript al terzo anno, React in un esame magistrale. Php mai visto.  
 In 13 anni di programmazione oltre all'esame di C non ho mai dovuto scrivere una riga di C. Non so però dire se grazie a C (e le sue sofferenze) sono riuscito ad imparare Python da autodidatta.  
-Nei corsi orientamento per DipInfo riesco in 15 ore a fare da zero agli oggetti con Python. Con C penso che arriverei ai puntatori.  
-Su Java, nonostante sia il mio linguaggio nativo, ho come l'impressione che farà la fine di Php. Anche Java è un bel linguaggio perché fortemente tipizzato, quindi aiuta ad essere precisi e a creare la forma mentis giusta, ma è indubbio che stia cominciando a perdere di popolarità. Php nella classifica è 11esimo.  
+Nei corsi Python di orientamento per il Dipartimento di Informatica dell'Università, in 15 ore riusciamo a spiegare da zero agli oggetti. Con C penso che si arriverebbe malapena ai puntatori nello stesso tempo. 
+Su Java, nonostante sia il mio linguaggio nativo, ho come l'impressione che farà la fine di Php. Anche Java è un bel linguaggio perché fortemente tipizzato, quindi aiuta ad essere precisi e a creare la forma mentis giusta, ma credo che stia cominciando a perdere di popolarità. Php nella classifica è 11esimo.  
 
-Se dovessi fare un progetto oggi penso che farei backend Python oppure NodeJS e frontend React senza pensarci due volte.  
+Se dovessi fare un progetto oggi, penso quindi che userei backend Python oppure NodeJS e frontend React senza pensarci due volte.  
 
 PHP vive ancora grazie ai CMS, che hanno comunque una buona quota di mercato dei siti web.  
 
@@ -50,4 +50,4 @@ Quindi potrebbe essere: 1° Python, 2° Javascript, 3° React, 4° tutto insieme
 
 In questo messaggio, ho escluso come da premessa tutti gli altri lavori (sistemista e quindi gli argomenti di SER, CMS ecc) per concentrarmi solo sui linguaggi di programmazione.
 
-Ci tenevo a condividere con voi queste riflessioni, perché penso che possano essere utili ai nostri studenti e perché ho a cuore il loro futuro: in un momento in cui stanno nascendo nuovi strumenti (tipo ChatGPT) penso sia importante aiutarli ad essere il più allineati possibili con le richieste che il mondo del lavoro di oggi chiede. 
+Ci tenevo a condividere con voi queste riflessioni, perché penso che possano essere utili ai nostri studenti e perché ho a cuore il loro futuro: in un momento in cui stanno nascendo nuovi strumenti (tipo ChatGPT) penso sia importante aiutarli ad essere il più allineati possibili con le richieste che il mondo del lavoro di oggi chiede. Spero che possano nascere delle riflessioni costruttive e mi piacerebbe sapere cosa ne pensate anche voi.
