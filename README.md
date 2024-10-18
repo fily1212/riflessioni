@@ -1,13 +1,12 @@
 # Riflessioni sparse
 
 Ciao,  
-io non ho fatto la sperimentale negli anni scorsi.  
+io non ho insegnato nella sperimentale negli anni scorsi.  
 Parlo quindi per idee che mi sono fatto, mettendo insieme l'esperienza dei corsi Python che ho fatto all'università verso le scuole superiori (circa 15 edizioni dal 2020), il corso regionale Engim di Tecnico Sviluppo Software in cui sono docente Java (dal 2019), il corso regionale Tecnico Sviluppo Web in cui ho insegnato Javascript (dal 2023), l'esperienza in TIN l'anno scorso e quanto ho visto nella sperimentale 3S in cui sto facendo informatica ora.  
 
-Ne ho un po' parlato anche con altri/e colleghi/e, sono dell'idea che abbiamo una grossa opportunità per sperimentare.  
-La mia idea è che sarebbe ottimale raggiungere come obiettivo la possibilità che al termine dei quattro anni i ragazzi possano avere l'opportunità di essere presi a fare un tirocinio in azienda informatica, ITS o per i più portati l'università.  
-
-Con l'idea che non tutti debbano fare l'università, credo che l'ideale sarebbe di dare **l'opportunità anche a quei ragazzi di livello intermedio di poter già lavorare**. Per riuscire a raggiungere questo obiettivo quindi credo che la scuola dovrebbe essere più vicina al trend delle **tecnologie moderne**.  
+Ne ho un po' parlato anche con altri/e colleghi/e, e sono dell'idea che abbiamo una grossa opportunità per sperimentare.  
+La mia idea è che l'obiettivo ottimale da raggiungere è che al termine dei quattro anni i ragazzi possano avere l'opportunità di essere presi a fare un tirocinio in azienda informatica, ITS o per i più portati essere pronti per l'università.  
+Con l'idea però che non tutti debbano fare l'università, credo che l'ideale sarebbe di dare **l'opportunità anche a quei ragazzi di livello intermedio di poter già lavorare**. Per riuscire a raggiungere questo obiettivo quindi credo che la scuola dovrebbe essere più vicina ai trend delle **tecnologie moderne**.  
 Tralascerei momentaneamente il discorso dei lavori moderni che esistono che non includono la programmazione (creazione di siti web tramite CMS, Social media manager, SEO strategist, ecc).  
 
 Scrivo qui un po' di idee sparse che ho trovato, magari possono alimentare la discussione e aiutare a farsi un'idea.
@@ -35,20 +34,20 @@ PHP vive ancora grazie ai CMS, che hanno comunque una buona quota di mercato dei
 
 È però anche vero che in 5 anni che uso Wordpress in modo professionale (per clienti), avrò fatto copia e incolla di php di un paio di righe da internet un paio di volte per attivare qualcosa. Il 90% dei task si risolve con un Builder o con Javascript.  
 
-Ora dirò cose un po' impopolari, accetto insulti :) , ma queste riflessioni sul **mio uso personale** (che quindi non possono essere prese come regola) e sulle statistiche, mi farebbero mettere in discussione anche PHP oltre a C.  
+Queste riflessioni sul **mio uso personale** (che quindi possono essere sbagliate e non sono da prendere come regola) e sulle statistiche succitate, mi farebbero mettere in discussione anche PHP oltre a C.  
 E la seconda prova informatica non cita mai PHP, dice "Utilizzando linguaggi a scelta client e server".  
 
 In sostanza, dopo tutti questi ragionamenti, mi sentirei di dire che la mia idea sarebbe la seguente: 
 
-- assolutamente introdurre git sia nei progetti di informatica che nei progetti collaborativi (che magari si potrebbero fare in GPOI). Lo utilizza il 93% dei sviluppatori, non possono uscire da qui che non sanno usarlo. **Deve essere installato nativamente (e non portable version) in ogni macchina presente a scuola**, laboratori portatili compreso. Deve essere installato configurando anche le impostazioni del proxy. In modo che ogni ragazzo, in qualsiasi laboratorio si trovi possa fare una clone e continuare a lavorare. Anche se purtroppo viene assegnato in B20 :) Magari dalla seconda S in poi, ma poi devono esercitarsi 3 anni ad usarlo. Le consegne dovrebbero essere fatte tramite commit. Basta zip volanti che si dimenticano di salvare, che hanno lasciato in C23 ma ora siamo in B26 ecc. Eventualmente installare un software che aiuti nell'utilizzo di git tipo Sublime Merge. Sia questo che la gestione di Git da Code funziona solo con git nativo. Git portable non viene riconosciuto. Nei laboratori con linux deve essere installato anche un gestore delle credenziali di git (gcm).
-- assolutamente devono uscire da qui che sanno usare Javascript. È un linguaggio standard di fatto per il front end, anche utilizzato per il back end.
-- devono sapere SQL, molto utilizzato e fa parte dell'esame di Stato.
+- introdurre git sia nei progetti di informatica che nei progetti collaborativi (che magari si potrebbero fare in GPOI). Lo utilizza il 93% dei sviluppatori, credo sia molto utile per loro uscire da qui che lo conoscano. **Sarebbe auspicabile che sia installato nativamente (e non portable version) in ogni macchina presente a scuola**, laboratori portatili compreso, anche configurando le impostazioni del proxy. In modo che ogni ragazzo, in qualsiasi laboratorio si trovi possa fare una clone e continuare a lavorare. Anche se purtroppo viene assegnato in B20 :) Magari introdurlo dalla seconda S in poi, in modo da dar loro 3 anni per esercitarsi ad usarlo. Le consegne, a mio parere, dovrebbero essere fatte tramite commit, evitando così zip volanti che si dimenticano di salvare, che hanno lasciato in C23 ma ora siamo in B26 ecc... Eventualmente installare un software che aiuti nell'utilizzo di git tipo Sublime Merge. Sia questo che la gestione di Git da Code funziona solo con git nativo. Git portable non viene riconosciuto. Nei laboratori con linux c'è la necessità che sia installato anche un gestore delle credenziali di git (gcm).
+- a mio parere è molto importante che escano dalla scuola che sappiano usare Javascript. È un linguaggio standard di fatto per il front end, anche utilizzato per il back end.
+- dovrebbero imparare SQL, molto utilizzato e fa parte dell'esame di Stato.
 - c'è da scegliere tra Python e C. In python si riesce anche a fare molto bene la parte di backend. In C viene molto bene la parte di fork e join. Nei quattro anni si potrebbe anche fare entrambi, è da capire quando fare cosa, e chi.
 - darei la parte di requisiti SW, documentazione SW, gestione del progetto (TPSI di terza e quarta fine libro che io per esempio non riesco mai a fare) a GPOI che ora ha più anni. TPSI con meno carico magari potrebbe insegnare C insieme alle fork e quella parte. Quindi rimarrebbe Python come linguaggio primario in informatica per iniziare a programmare e poi Javascript subito dopo, con obiettivo in quarta S di mettere tutto insieme, fare una full stack application con SQL, Python, React e progetti integrati anche con GPOI.  
 Quindi potrebbe essere: 1° Python, 2° Javascript, 3° React, 4° tutto insieme.
-- Sottolineerei l'importanza nell'imparare l'utilizzo delle AI in modo costruttivo e consapevole. Se lo usano per generare le consegne nessuno li assumerà, basta usare ChatGPT. Se lo usano per imparare, farsi spiegare invece è utile.
+- Sottolineerei ai ragazzi l'importanza nell'imparare l'utilizzo delle AI in modo costruttivo e consapevole. Se lo usano per generare le consegne nessuno li assumerà, sono facilmente sostituibili da ChatGPT e non imparano nulla. Se lo usano invece per imparare, usarlo come spiegazione invece è utile.
 - Utilizzerei la metodologia PRIMM per insegnare le parti più difficili: https://fablab.unitn.it/sperimentazione-primm/ 
 
-Ovviamente ho escluso come da premessa tutti gli altri lavori (sistemista e quindi gli argomenti di sistemi e reti, CMS ecc) per concentrarmi solo sui linguaggi di programmazione, che mi pare già essere un post molto lungo.  
+In questo messaggio, ho escluso come da premessa tutti gli altri lavori (sistemista e quindi gli argomenti di SER, CMS ecc) per concentrarmi solo sui linguaggi di programmazione.
 
-Non so se qualcuno veramente può essere arrivato a leggersi questo pippozzo fino a qui :) So di aver detto cose anche impopolari perché sono diverse da quanto si fa oggi nelle classi normali
+Ci tenevo a condividere con voi queste riflessioni, perché penso che possano essere utili ai nostri studenti e perché ho a cuore il loro futuro: in un momento in cui stanno nascendo nuovi strumenti (tipo ChatGPT) penso sia importante aiutarli ad essere il più allineati possibili con le richieste che il mondo del lavoro di oggi chiede. 
